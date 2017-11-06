@@ -1,5 +1,5 @@
 # c-string-searching
-An implement of String Searching Algorithm.
+An implementation of String Searching Algorithm.
 
 In folders **samples** and **tests**, there are examples to execute code.
 
