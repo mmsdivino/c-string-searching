@@ -3,7 +3,7 @@ An implementation of String Searching Algorithm.
 
 In folders **samples** and **tests**, there are examples to execute code.
 
-This code is a project for discipline Data Structures and Algorithms (MATA54) in Federal University of Bahia. Follow description in Portuguese.
+This code is a project for subject Data Structures and Algorithms (MATA54) in Federal University of Bahia. Follow description in Portuguese.
 
 ## Índice de palavras e sugestão ortográfica
 
